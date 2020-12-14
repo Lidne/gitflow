@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ermekov George Alexandrovich
+=======
+Цурик Егор Михайлович
+>>>>>>> origin/feature/listEgor
